@@ -1,0 +1,8 @@
+C:\Users\SISCON\Desktop\Cytus Calculator\Native.Tool\bin\x86\Debug\Native.Tool.dll
+C:\Users\SISCON\Desktop\Cytus Calculator\Native.Tool\bin\x86\Debug\Native.Tool.pdb
+C:\Users\SISCON\Desktop\Cytus Calculator\Native.Tool\obj\x86\Debug\Native.Tool.csprojAssemblyReference.cache
+C:\Users\SISCON\Desktop\Cytus Calculator\Native.Tool\obj\x86\Debug\Native.Tool.SQLite.Resources.SR.resources
+C:\Users\SISCON\Desktop\Cytus Calculator\Native.Tool\obj\x86\Debug\Native.Tool.csproj.GenerateResource.cache
+C:\Users\SISCON\Desktop\Cytus Calculator\Native.Tool\obj\x86\Debug\Native.Tool.csproj.CoreCompileInputs.cache
+C:\Users\SISCON\Desktop\Cytus Calculator\Native.Tool\obj\x86\Debug\Native.Tool.dll
+C:\Users\SISCON\Desktop\Cytus Calculator\Native.Tool\obj\x86\Debug\Native.Tool.pdb
